@@ -333,6 +333,11 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   Research focuses on GIScience, GeoAI, human-centered GeoAI, geospatial data science, social sensing, cartography, and spatial analysis, with applications in human mobility, urban planning, environmental psychology, maternal health, and responsible geospatial artificial intelligence.  
   https://sites.utexas.edu/gisense/
 
+- **Humanistic GIS Laboratory (HGIS Lab)** — Led by Dr. Bo Zhao<br>
+  (https://hgis.uw.edu/), University of Washington.  
+  The Humanistic GIS Laboratory explores the intersection of geospatial technologies, digital geographies, and human-centered spatial analysis. The lab investigates how GIS, social media, and emerging AI technologies shape geographic knowledge, spatial narratives, and public understanding of place. Research topics include humanistic GIS, geospatial misinformation, digital place-making, and the societal implications of geospatial data and mapping technologies.  
+  https://hgis.uw.edu/
+
 - **Smart Cities for Good (SCG) Lab** — Led by Dr. Jungwhan Kim<br>
   (https://geography.vt.edu/people/junghwan-kim.html), Virginia Tech.  
   Research focuses on human mobility, accessibility, and travel behavior, environmental health, geospatial data science, and ethical issues in geospatial data and AI, with applications in smart cities, transportation planning, public health, and evidence-based urban policy.  
@@ -343,6 +348,11 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   Research focuses on environmental health, environmental justice, health disparities, and spatial epidemiology using GIS, geospatial technologies, community-engaged research, and spatial statistical methods. The lab integrates spatial analysis and public health research to understand environmental exposures, social vulnerability, and health inequities across communities.  
   https://www2.yoominpark.com/
 
+- **Yue Lin Research Group** — Dr. Yue Lin<br>
+  (https://linyuehzzz.github.io/), University of Illinois Urbana–Champaign.  
+  Research explores the intersection of geospatial artificial intelligence, spatial data science, and human values. The group investigates critical societal questions surrounding geospatial technologies, including algorithmic bias, location privacy, and the ethical design of GeoAI systems. Their work emphasizes responsible and human-centered geospatial computing, examining how spatial AI systems influence society, governance, and decision-making in data-driven environments.  
+  https://linyuehzzz.github.io/
+  
 - **Cyberinfrastructure and Spatial Decision Intelligence (CIDI) Research Group** — Led by Dr. Zhe (Sarina) Zhang<br>
   (https://artsci.tamu.edu/geography/contact/profiles/zhesarina-zhang.html), Texas A&M University.  
   Research focuses on GIScience, CyberGIS, geospatial artificial intelligence (GeoAI), participatory GIS, and spatial decision intelligence. The group develops cyberinfrastructure-enabled hybrid spatial decision support systems integrating high-performance computing, distributed systems, and AI to address disaster management, coastal resilience, critical infrastructure protection, and sustainable development challenges.  
