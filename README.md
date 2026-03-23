@@ -287,7 +287,7 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   Research focuses on GeoAI, GIScience, spatial data science, and geospatial modeling, with applications in disaster resilience, climate change, environmental health, and public health.  
   https://www.geoearlab.com/
 
-- **GIScience for Resilience (GIResilience) Research Group** — Led by Dr. Heng Cai<br>
+- **City Analytics & Informatics Research Group** — Led by Dr. Heng Cai<br>
   (https://artsci.tamu.edu/geography/contact/profiles/heng-cai.html), Texas A&M University.  
   Research focuses on GIScience, geospatial analytics, spatial decision support, and resilience-oriented applications addressing natural hazards, climate change, and long-term environmental risks.  
   https://gis-resilience.info/
