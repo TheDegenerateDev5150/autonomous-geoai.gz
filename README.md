@@ -953,6 +953,13 @@ These internships typically emphasize:
 
 
 ## Miscellaneous
+- **OpenClaw — AI Agent Operational Principles (Video Explanation)**  
+  https://youtu.be/2rcJdFuNbZQ  
+
+  This video provides a conceptual overview of AI agent architectures through the OpenClaw example, illustrating key components such as reasoning loops, tool invocation, memory mechanisms, and task execution workflows. It offers a useful mental model for understanding emerging agentic AI systems and autonomous pipelines.
+
+  *Keywords:* AI Agents, Agent Architecture, Reasoning Loop, Tool Calling, Autonomous AI, LLM Systems
+  
 - **Google Maps Platform — Build with AI** — An AI-powered development entry point for building geospatial applications with Google Maps APIs. It provides agent-based tools, code generation, and solution guides to rapidly prototype location-aware apps using Maps, Routes, and Places, and to integrate map-centric context into conversational and multimodal AI systems.  
   https://mapsplatform.google.com/ai/
 
