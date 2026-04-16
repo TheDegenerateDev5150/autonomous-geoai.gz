@@ -14,12 +14,13 @@
 | 6 | [Case Studies](#case-studies) | 4 case studies (monitoring → management) |
 | 7 | [Existing Challenges & Future Opportunities](#challenges) | Data, reliability, ethics, paths forward |
 | 8 | [What is GeoAI?](#geoai) | Three-layer framework |
-| 9 | [Dissertation Research Positions](#dissertation-positions) | Five core Q&As |
+| 9 | [Dissertation Research Positions](#dissertation-positions) | Six core Q&As |
 | — | &nbsp;&nbsp;[Q1 · Primary Contribution](#q1) | Proposing / Testing / Designing |
 | — | &nbsp;&nbsp;[Q2 · Novelty & Theoretical Innovations](#q2) | Empirical / Methodological / Theoretical |
 | — | &nbsp;&nbsp;[Q3 · Scope Beyond Damage Assessment](#q3) | Task-general architecture |
 | — | &nbsp;&nbsp;[Q4 · Contribution to AGI / Geo-Foundation Models](#q4) | GeoAGI direction |
 | — | &nbsp;&nbsp;[Q5 · Longevity & Future Relevance](#q5) | What lasts vs. what won't |
+| — | &nbsp;&nbsp;[Q6 · Contribution Framing After Advisor Feedback](#q6) | Methods, applications, resilience, governance |
 | 10 | [读书笔记（真金）](#reading-notes) | Quotes & reflections |
 
 > **How to search / 如何检索：** Use your browser's built-in search (`Ctrl/Cmd + F`) to find any keyword across the full document. Click any Table of Contents entry to jump directly to that section.
@@ -328,7 +329,7 @@ Truly mature GeoAI not only achieves high accuracy but also supports geographic 
 
 <a id="dissertation-positions"></a>
 
-## Dissertation Research Positions: Five Core Questions
+## Dissertation Research Positions: Six Core Questions
 
 *The following reflects my considered responses to foundational questions raised during preliminary examination review. These are not definitive answers but working positions — subject to revision as the research matures.*
 
@@ -397,6 +398,45 @@ I believe this work will remain useful over the next five to ten years, not beca
 First, the framework is modular. The perception, restoration, recognition, and reasoning components in the multi-agent structure can all be updated as new models emerge, so the system is not tied to any one short-lived model. Second, it emphasizes multimodality, cross-view learning, cross-hazard transfer, and zero-shot adaptation, all of which offer more lasting value than achieving high accuracy on a single benchmark dataset. Third, the proposal highlights open datasets, model weights, and the AutonomousGeoAI4Science community platform, which strengthen reproducibility and long-term usability.
 
 Finally, the dissertation incorporates interpretability, trustworthiness, and spatial equity into system design, and these dimensions are likely to become even more important in future AI governance and public-sector deployment. In other words, even as specific foundation models continue to evolve, the Responsible and Autonomous GeoAI framework proposed in this dissertation should remain extensible, replaceable, and broadly usable.
+
+↑ [Back to Top · 返回目录](#top)
+
+---
+
+<a id="q6"></a>
+
+### Q6: How should I frame the dissertation contributions after advisor feedback?
+
+After another round of discussion, Dr. Zou suggested that my dissertation can be framed through four possible contribution areas:
+
+1. **Innovative GeoAI/GenAI models and pipelines**
+   This includes multimodal and multi-temporal geospatial modeling, agentic GeoAI workflows, and geo-foundation-model-enabled downstream geospatial tasks.
+
+2. **Advanced GeoAI/GenAI applications in disaster resilience**
+   This includes damage assessment, monitoring, strategic recovery support, and other tasks that enhance disaster resilience across regions and hazard scenarios.
+
+3. **Improved understanding of resilience mechanisms**
+   This refers to what kinds of buildings, neighborhoods, infrastructures, and communities are more resilient, and how these factors interact spatially.
+
+4. **Critical reflections on GeoAI/GenAI theories, governance, and practices**
+   This includes responsible, fiduciary, and trustworthy uses of GeoAI, especially in contexts where people increasingly accept decisions made by AI rather than decisions merely assisted by AI.
+
+I agree with this framing, but my current view is that the first two are the strongest and most central contributions of my dissertation, while the fourth provides an important normative and philosophical layer. The third is a meaningful long-term direction, but at present it should be stated more cautiously unless my work directly explains resilience mechanisms rather than only supporting resilience-related tasks.
+
+My current understanding is that existing disaster resilience research, especially disaster assessment, often suffers from strong regional dependence, limited generalizability, unimodal data, and analytical pipelines that remain passive and overly tied to fixed workflows. These limitations are closely related to the geographic nature of disasters, because disaster resilience tasks are inherently multi-stage, multimodal, multi-scale, and highly uncertain, while also involving complex human-environment interactions. For this reason, I do not think that a single model or a single-step prediction framework is sufficient to support a more realistic form of geospatial intelligence for disaster resilience.
+
+In my view, multi-agent systems offer a more appropriate path forward because they enable complex disaster tasks to be organized into multiple interrelated spatial intelligence tasks and addressed through role differentiation and coordinated execution, in a way that more closely reflects the real structure of disaster processes. Foundation models provide the underlying multimodal capabilities for understanding, generation, and reasoning, but my main contribution lies not in the foundation models themselves.
+
+Rather, my main contribution lies in designing and validating a **multi-agent GeoAI framework for disaster resilience**, including the definition of agent roles, collaboration logic, and the responsible selection and use of models for different tasks. Generative AI is what makes such a system feasible, while my role is best understood as that of a **system architect**, organizing multiple AI units with different capabilities into a geospatial intelligence system capable of carrying out key disaster resilience tasks. In this sense, the researcher acts as the system designer, supervisor, and evaluator, while different agents serve as specialized computational units within the overall geospatial workflow.
+
+Building on Dr. Zou's summary, I therefore see my dissertation as contributing primarily in two areas:
+
+- **Innovative GeoAI/GenAI methods and pipelines**, especially through the design of multimodal and multi-agent workflows for complex geospatial tasks
+- **Advanced GeoAI/GenAI applications in disaster resilience**, especially for damage assessment, explanation, and decision support
+
+At the same time, I also see an important supporting contribution in **critical GeoAI thinking**, because responsible, fiduciary, and trustworthy AI are not secondary concerns in my work, but core design principles. What makes this dissertation distinctive is that it sits at the intersection of geography, disaster resilience, and AI. Compared with a purely computer science perspective, I am in a better position to define agent roles in ways that reflect the real structure of disaster resilience problems. Compared with a purely domain-oriented perspective, I am in a better position to understand what kinds of problems AI can realistically help solve, and how multimodal models, generative AI, and agent-based systems can be organized to support those tasks.
+
+My long-term goal is to develop an autonomous, extensible, and generalizable agentic GeoAI system that can adapt to new study regions, new hazard scenarios, and new downstream tasks. In this sense, even as AI continues to become more powerful, the roles of agents will continue to evolve rather than disappear.
 
 ↑ [Back to Top · 返回目录](#top)
 
