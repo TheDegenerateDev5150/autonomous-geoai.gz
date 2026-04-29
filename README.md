@@ -1050,6 +1050,9 @@ high-performance computing, and computational geospatial sciences.*
 - **NVIDIA Academic Grant Program** — GPU grants and hardware support for academic research in AI, HPC, and scientific computing  
   https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/
 
+- **NVIDIA Inception Program for Startups** — Free startup program for AI companies offering technical training, developer tools, preferred pricing on NVIDIA hardware and software, partner cloud credits, and access to investors. NVIDIA states there are no application fees, deadlines, or cohorts; applicants must employ at least one developer, maintain a working website, be officially incorporated, and be less than 10 years old.  
+  https://www.nvidia.com/en-us/startups/
+
 ## Contributing
 
 I appreciate your interest in contributing to **Awesome Autonomous GeoAI**!  
