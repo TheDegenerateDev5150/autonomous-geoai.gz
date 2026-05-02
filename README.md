@@ -293,6 +293,11 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   Research focuses on CyberGIS, high-performance geospatial computing, scalable spatial data science, and geospatial artificial intelligence (GeoAI) for sustainability and complex environmental challenges. The CyberGIS Center develops advanced geospatial cyberinfrastructure integrating AI, supercomputing, and large-scale spatial analytics to enable next-generation geospatial discovery and decision support systems.  
   https://cybergis.illinois.edu/
 
+- **Urban Artificial Intelligence Lab** — Led by Dr. Xinyue Ye<br>
+  (https://engineering.tamu.edu/cse/profiles/ye-xinyue.html), Texas A&M University.<br>
+  Research focuses on geospatial artificial intelligence, urban informatics, smart cities, urban data science, and digital twins for the built environment. The lab develops AI-enabled urban analytics, simulation platforms, and open-source tools to support resilient, sustainable, and climate-aware urban planning and decision-making.<br>
+  https://urbanai.tamids.tamu.edu/
+
 - **Geospatial Exploration and Resolution (GEAR) Lab** — Led by Dr. Lei Zou<br>
   (https://artsci.tamu.edu/geography/contact/profiles/lei-zou.html), Texas A&M University.  
   Research focuses on GeoAI, GIScience, spatial data science, and geospatial modeling, with applications in disaster resilience, climate change, environmental health, and public health.  
