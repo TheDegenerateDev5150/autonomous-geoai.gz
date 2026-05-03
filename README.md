@@ -38,6 +38,7 @@ covering theory, models, datasets, software, and applications in geospatial inte
   - [R](#r)
   - [GIS-Integrated Tools](#gis-integrated-tools)
 - [Internships & Companies](#internship-and-company)
+  - [Reality Capture and Spatial Computing Company Map](#reality-capture-and-spatial-computing-company-map)
 - [Miscellaneous](#miscellaneous)
 - [Relevant Awesome Lists](#relevant-awesome-lists)
 - [Funding and Grants](#funding-and-grants)
@@ -971,6 +972,75 @@ These internships typically emphasize:
 *Website:* https://synspective.com/recruit/
 
 > **Note:** Compared with traditional optical Earth observation companies, Synspective focuses on **SAR-based monitoring**, enabling **all-weather and nighttime Earth observation**, which is particularly valuable for disaster monitoring, infrastructure stability analysis, and environmental change detection.
+
+### Reality Capture and Spatial Computing Company Map
+
+*Focus:* Reality Capture · Surveying · 3D Reconstruction · Digital Twins · Spatial Computing · Autonomous GeoAI Infrastructure
+
+This company map collects firms and ecosystem organizations relevant to autonomous geospatial AI, especially the hardware, software, and service layers that produce or operationalize real-world spatial data. It is intended for research scouting, collaboration mapping, and industry awareness. Verify current roles and programs before treating any entry as an internship target.
+
+#### Surveying, Positioning, and Mobile Mapping
+
+- **Trimble** - Connected hardware and software across construction, geospatial, transportation, agriculture, and precise positioning. Relevant for GNSS, RTK, mobile mapping, construction technology, and geospatial workflow automation.<br>
+  https://www.trimble.com/en
+
+- **CHC Navigation / CHCNAV** - Navigation, positioning, and mapping technologies for geospatial, construction, navigation, and agriculture, including GNSS, LiDAR, UAV/USV, machine control, and real-time GNSS infrastructure.<br>
+  https://www.chcnav.com/
+
+- **Mosaic (Geospatial Imaging Leaders)** - Robust 360-degree mobile mapping camera systems and services for street-level imagery, mapping, surveying, infrastructure inspection, 3D reconstruction, and digital twin workflows. See the detailed Mosaic entry above for internship-oriented notes.<br>
+  https://www.mosaic51.com/
+
+- **3GON Slovakia, s.r.o.** - Slovak distributor and integrator for precise measurement, data capture, drones, 3D technologies, software, monitoring, and spatial data processing.<br>
+  https://www.3gon.sk/
+
+#### 3D Scanning, Photogrammetry, and Gaussian Splatting
+
+- **XGRIDS** - SLAM-based handheld LiDAR scanning, real-time 3D reconstruction, Lixel scanners, and 3D Gaussian Splatting-oriented spatial computing tools.<br>
+  https://www.xgrids.com/
+
+- **Rigsters** - 3D scanning and photogrammetry services, including laser or structured-light scanning, automated scanning rigs, large-scale digitization, and 3D model post-processing.<br>
+  https://rigsters.com/services/
+
+- **Tiki3D** - End-to-end reality 3D modeling software and hardware, covering photogrammetry, aerial and satellite imagery, LiDAR point clouds, real-time drone-based 3D modeling, and geospatial entity construction.<br>
+  https://tiki3d.com/
+
+- **Overhead4D** - Creative photogrammetry, 3D scanning, aerial works, VR/AR experiences, cultural heritage digitization, smart city capture, and UAV-based inspection.<br>
+  https://overhead4d.com/
+
+- **Blurry** - Browser-based hosting, sharing, and embedding for 3D Gaussian Splatting models, relevant to publishing and viewing 3DGS outputs from reality capture workflows.<br>
+  https://www.useblurry.com/
+
+#### Drone Data and Aerial Capture
+
+- **AVAG** - Drone data platform for photogrammetric processing, spatial data delivery, CAD/WMS/3D model workflows, terrain analysis, volume calculations, cross-sections, and 2D/3D vectorization.<br>
+  https://avagpro.com/
+
+- **Skynamic** - Close-range drone aerial filming and image capture specialist. More media-production oriented than surveying, but relevant to aerial capture platforms and operator workflows.<br>
+  https://www.skynamic.tv/about-us/
+
+#### 3D GIS, Digital Twins, and XR Visualization
+
+- **Skyline Software Systems** - 3D geospatial software for photogrammetry, 3D mesh and Gaussian Splatting models, TerraExplorer, SkylineGlobe Server, digital twins, mapping, surveying, drone inspection, and city planning.<br>
+  https://www.skylinesoft.com/
+
+- **QuaternAR** - XR collaboration runtime for synchronized shared 3D environments across AR/VR headsets, 3D displays, desktops, and tablets. Relevant to spatial computing interfaces for collaborative geospatial or industrial scenes.<br>
+  https://quaternar.com/
+
+#### CAD, Wireless Planning, and Innovation Ecosystem
+
+- **4 CAD solution s.r.o.** - CAD software and automation company focused on SOLIDWORKS-related workflows, CAD macros, AI CAD copilots, text-to-STEP/STL concepts, and engineering process automation.<br>
+  https://www.4-cad.cz/
+
+- **Hamina Wireless** - AI-assisted wireless network planning, site survey, live troubleshooting, and 3D Wi-Fi, private 5G, and IoT signal modeling. Relevant to indoor spatial modeling and infrastructure-aware digital twins.<br>
+  https://www.hamina.com/
+
+- **SAPIE (Slovak Alliance for Innovation Economy)** - Slovak nonprofit innovation-economy alliance and policy platform supporting startups, digital transformation, private-public collaboration, and the broader CEE innovation ecosystem.<br>
+  https://sapie.sk/home
+
+#### Needs Name Verification
+
+- **Shiyan-tech / Shiyan Intelligent Technology (tentative)** - Possible match: Shiyan Intelligent Technology (Guangzhou), also presented as Roboeye, an AI 3D vision company for manufacturing. Confirm the exhibitor logo, official English name, or event profile before treating this as a verified entry.<br>
+  https://www.roboeye.ai/about.asp
 
 
 ## Miscellaneous
