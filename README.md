@@ -15,6 +15,7 @@ covering theory, models, datasets, software, and applications in geospatial inte
 
 > 📘 **Core Documents**
 > - **[Research Philosophy](RESEARCH_PHILOSOPHY.md)** — Vision, ambition, and guiding research principles
+> - **[Research Philosophy Summary (中文整理)](RESEARCH_PHILOSOPHY_SUMMARY_ZH.md)** — 中文提炼版，聚焦核心科研观、GeoAI 框架与论文定位
 
 ## Contents
 
