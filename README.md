@@ -1057,6 +1057,9 @@ This company map collects firms and ecosystem organizations relevant to autonomo
 - **SAPIE (Slovak Alliance for Innovation Economy)** - Slovak nonprofit innovation-economy alliance and policy platform supporting startups, digital transformation, private-public collaboration, and the broader CEE innovation ecosystem.<br>
   https://sapie.sk/home
 
+- **Taylor Geospatial** - St. Louis-based geospatial organization focused on the digital public good, democratizing GeoAI through global partnerships, geospatial innovation capacity building, open geospatial tooling, and community-facing spatial intelligence initiatives. Relevant to autonomous GeoAI ecosystem development, geospatial evaluation infrastructure, and public-interest geospatial AI.<br>
+  https://taylorgeospatial.org/
+
 #### Needs Name Verification
 
 - **Shiyan-tech / Shiyan Intelligent Technology (tentative)** - Possible match: Shiyan Intelligent Technology (Guangzhou), also presented as Roboeye, an AI 3D vision company for manufacturing. Confirm the exhibitor logo, official English name, or event profile before treating this as a verified entry.<br>
