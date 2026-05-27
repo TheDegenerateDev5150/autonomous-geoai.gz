@@ -38,6 +38,7 @@ covering theory, models, datasets, software, and applications in geospatial inte
   - [R](#r)
   - [GIS-Integrated Tools](#gis-integrated-tools)
 - [Internships & Companies](#internship-and-company)
+  - [Geospatial / Physical AI Companies](#geospatial--physical-ai-companies)
   - [Reality Capture and Spatial Computing Company Map](#reality-capture-and-spatial-computing-company-map)
 - [Miscellaneous](#miscellaneous)
 - [Relevant Awesome Lists](#relevant-awesome-lists)
@@ -576,27 +577,72 @@ These internships typically emphasize:
 
 > **Note:** Applicants should distinguish research- and AI-focused internships from general GIS or cartography roles, which are more application-oriented and less aligned with research-driven GeoAI trajectories.
 
+### Geospatial / Physical AI Companies
+
+### **Bellwether (X / Google)**  
+*Focus:* Disaster Intelligence · Geospatial AI · Earth Prediction · Rapid Response · Climate Risk  
+
+Bellwether is an X (Google) moonshot building what it calls the **first prediction engine for the Earth and everything on it**. The project combines **AI and Earth information data** to anticipate severe weather impacts, assess damage to communities and infrastructure, and support public- and private-sector decision-making around disaster planning, response, and recovery.
+
+For GeoAI researchers, Bellwether is especially relevant because it operationalizes **geospatial reasoning on aerial imagery and Earth observation data** in real disaster workflows rather than only benchmark settings. Public material highlights work on **wildfire prediction, rapid post-disaster scene assessment, and insurance-facing hazard intelligence**. In a Kansas City emergency response simulation, Bellwether analyzed aerial imagery of **407 homes in 20 minutes at 96% accuracy**, illustrating the company’s orientation toward time-critical disaster assessment.
+
+**Relevant technical themes include:**
+- Geospatial image matching and damage detection for disaster response  
+- Earth-scale prediction using AI + environmental / infrastructure data  
+- Wildfire risk modeling and hazard forecasting  
+- Decision support for emergency management, insurance, and resilience planning  
+- Bridging foundation-model-style reasoning with operational disaster intelligence  
+
+*Location:* X / Google ecosystem, Mountain View, CA  
+*Collaboration signal:* Bellwether publicly invites collaboration via the X project page; treat it as a high-signal research/industry moonshot rather than a standardized internship pipeline  
+*Website:* https://x.company/projects/bellwether/  
+*Field report:* https://x.company/blog/posts/bellwether-kansas-city/
+
+> **Note:** Bellwether is particularly important for researchers whose GeoAI trajectory includes **disaster intelligence, geospatial reasoning, risk forecasting, and public-sector response systems**. It represents a strong example of GeoAI moving from mapping toward action-oriented Earth prediction.
+
 ### **Niantic Spatial**  
-*Focus:* Spatial Intelligence · GeoAI · Visual Localization · Street-View Intelligence  
+*Focus:* Spatial Intelligence · GeoAI · Visual Localization · 3D Reconstruction · Large Geospatial Models  
 
-Niantic Spatial offers highly competitive internship opportunities for graduate students and PhD researchers interested in **spatial intelligence and geospatial AI**. Building on large-scale visual data and mapping technologies, Niantic Spatial focuses on advancing **visual localization, 3D spatial understanding, and real-world geographic reasoning**, making it particularly relevant for research at the intersection of computer vision, mapping, and GeoAI.
+Niantic Spatial builds a real-world model for **physical AI**, spanning **high-fidelity 3D reconstruction, vision-based localization, semantic scene understanding, and large-scale spatial intelligence systems**. Compared with traditional mapping companies, its differentiator is the ambition to move from local scene understanding to a **Large Geospatial Model (LGM)**: a machine learning system that connects millions of places into a shared understanding of the physical world.
 
-**Relevant internship tracks include:**
-- Spatial AI Intern
-- Computer Vision Intern (Geospatial / Localization)
-- Research Intern (Spatial Intelligence)
+For GeoAI and computer vision researchers, Niantic Spatial is relevant to problems such as **visual place recognition, multimodal scene understanding, reconstruction pipelines, AR/robotics interfaces, and machine understanding of real-world geography**. Its products and research direction sit at the boundary of **mapping, embodied AI, digital twins, and physical-world foundation models**.
 
-These internships typically emphasize:
-- Visual localization and place recognition using street-view and ground-level imagery
-- Spatial representation learning and multimodal (vision–geometry–map) modeling
-- Integration of computer vision and geospatial reasoning for real-world spatial intelligence tasks
-- Research-driven development with potential for long-term collaboration and publications
+**Relevant roles and research directions include:**
+- Computer vision research and engineering for real-world spatial understanding  
+- Visual localization, VPS, and place recognition  
+- 3D reconstruction and digital twin generation from ground and aerial captures  
+- Vision-language and semantics-aware spatial modeling  
+- Infrastructure for spatial AI systems, robotics, and physical AI applications  
 
-*Location:* San Francisco Bay Area (Hybrid / Onsite depending on team)  
-*International students:* CPT / J-1 supported; no security clearance required  
-*Website:* https://www.nianticspatial.com/careers
+*Location:* San Francisco / Sunnyvale, CA, with additional roles sometimes listed elsewhere (e.g., London)  
+*Openings:* Current careers page lists active full-time positions; internship availability may vary by cycle and team  
+*Website:* https://www.nianticspatial.com/careers  
+*Research / vision:* https://www.nianticspatial.com/blog/largegeospatialmodel
 
-> **Note:** Niantic Spatial internships are research- and algorithm-focused and should be distinguished from general software engineering roles, as they emphasize spatial perception, localization, and GeoAI methodologies.
+> **Note:** Niantic Spatial should be understood not just as an AR company descendant, but as a leading **spatial foundation-model and physical-AI infrastructure company**. It is highly relevant for work on GeoAI, digital twins, robotics perception, and large-scale spatial representation learning.
+
+### **Spexi**  
+*Focus:* Drone Imagery Infrastructure · Spatial AI Training Data · Digital Twins · Photogrammetry · Physical AI  
+
+Spexi is a Vancouver-based geospatial company building a distributed drone-pilot network to deliver **standardized, ultra-high-resolution aerial imagery** on demand. Its product direction is unusually relevant to autonomous GeoAI because it sits at the **data infrastructure layer**: providing the structured aerial data that fuels **change detection, 3D reconstruction, digital twins, synthetic-data generation, and model training for spatial AI systems**.
+
+Public materials describe Spexi’s imagery stack as **API-first**, integration-ready, and designed for **living world models**. The company emphasizes **1–3 cm imagery**, structured **nadir + oblique capture**, orthomosaics, 3D point clouds, and related datasets for computer vision and mapping workflows. Its 2026 partnership with **Niantic Spatial** is especially notable, positioning Spexi as a preferred drone imagery provider for **training real-world foundation models for physical AI** and enabling city-scale 3D reconstruction pipelines.
+
+**Relevant role / ecosystem directions include:**
+- Geospatial data platforms and API-delivered imagery workflows  
+- Drone capture standardization and scalable field operations  
+- Photogrammetry, 3D reconstruction, and digital twin pipelines  
+- Spatial AI / computer vision training data generation  
+- Change detection, asset monitoring, and infrastructure intelligence  
+
+*Location:* Vancouver, Canada  
+*Openings:* Spexi’s public jobs board currently shows no open positions; however, its global pilot network and partner ecosystem remain highly relevant for collaboration and market tracking  
+*Website:* https://www.spexi.com/  
+*About:* https://www.spexi.com/about  
+*AI page:* https://www.spexi.com/ai  
+*Partnership:* https://www.spexi.com/blog/niantic-spatial-and-spexi-partner-to-turn-drone-imagery-into-intelligence-for-physical-ai
+
+> **Note:** Spexi is especially valuable to watch if your interests include **real-world data acquisition for GeoAI**, rather than only downstream modeling. It represents the emerging layer where drone capture networks, geospatial APIs, and physical-AI training pipelines begin to merge.
 
 ### **Texas A&M Institute for a Disaster Resilient Texas (IDRT)**  
 *Focus:* Disaster Resilience · GeoAI · Hazard Analytics · Decision Support Systems  
@@ -1147,6 +1193,8 @@ This company map collects firms and ecosystem organizations relevant to autonomo
 
 ### 🌍 Industry Vision: Geospatial AI & Spatial Intelligence
 
+*Selected reading from the **Geospatial / Physical AI Companies** subsection above.*
+
 - **Bellwether / X — How Kansas City is Outpacing the Storm** — A field report on using drone imagery and geospatial AI for rapid post-disaster damage assessment in Kansas City, where Bellwether analyzed 407 homes in 20 minutes at 96% accuracy during an emergency response simulation.  
   https://x.company/blog/posts/bellwether-kansas-city/
 
@@ -1155,6 +1203,9 @@ This company map collects firms and ecosystem organizations relevant to autonomo
 
 - **Niantic Spatial – Large Geospatial Models**  
   https://www.nianticspatial.com/blog/largegeospatialmodel
+
+- **Spexi × Niantic Spatial — Turn Drone Imagery Into Intelligence for Physical AI** — Partnership announcement describing a drone-to-3D pipeline for city-scale reconstruction, 3D Gaussian splats, and physical-AI training data.  
+  https://www.spexi.com/blog/niantic-spatial-and-spexi-partner-to-turn-drone-imagery-into-intelligence-for-physical-ai
 
 
 ## Relevant Awesome Lists
