@@ -1065,6 +1065,9 @@ This company map collects firms and ecosystem organizations relevant to autonomo
 - **Skynamic** - Close-range drone aerial filming and image capture specialist. More media-production oriented than surveying, but relevant to aerial capture platforms and operator workflows.<br>
   https://www.skynamic.tv/about-us/
 
+- **Spexi** - Vancouver-based drone imagery company building a distributed pilot network (LayerDrone) to deliver standardized, ultra-high-resolution aerial data for spatial AI, change detection, digital twins, photogrammetry, and physical AI workflows. Relevant for living world models, API-first geospatial data delivery, structured nadir/oblique imagery, orthomosaics, 3D point clouds, and emerging city-scale reconstruction pipelines (including its 2026 Niantic Spatial partnership around 3D intelligence and physical AI).<br>
+  https://www.spexi.com/
+
 #### 3D GIS, Digital Twins, and XR Visualization
 
 - **Skyline Software Systems** - 3D geospatial software for photogrammetry, 3D mesh and Gaussian Splatting models, TerraExplorer, SkylineGlobe Server, digital twins, mapping, surveying, drone inspection, and city planning.<br>
