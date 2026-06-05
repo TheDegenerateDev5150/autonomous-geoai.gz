@@ -1193,6 +1193,13 @@ This company map collects firms and ecosystem organizations relevant to autonomo
 
 
 ## Miscellaneous
+- **NICE (Nexus for IntelligeCE)**  
+  https://nice-intl.github.io/  
+
+  A non-profit AI research community founded in 2023 that regularly invites researchers and startup founders to share their work in AI, NLP, and large language models. NICE hosts talks, panels, and interviews featuring 300+ invited speakers from leading universities and tech companies, reaching a global audience of 150,000+ followers across locations including Beijing, New York, Hong Kong, and Silicon Valley.
+
+  *Keywords:* AI Community, NLP, Large Language Models, Agentic AI, Research Talks, Non-Profit
+
 - **Google.org Impact Challenge: AI for Science**  
   https://google.org/impact-challenges/ai-science/  
 
