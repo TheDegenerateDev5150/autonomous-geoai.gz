@@ -748,6 +748,23 @@ These roles typically emphasize:
 
 > **Note:** CARTO opportunities are platform- and systems-oriented, sitting between GeoAI research and production-grade spatial infrastructure. They are particularly well-suited for PhD researchers interested in **Agentic GIS, cloud-native spatial intelligence, and AI-driven geospatial automation**, rather than traditional desktop GIS or cartography-focused roles.
 
+### **LGND (Geospatial AI Embeddings Platform)**  
+*Focus:* Earth Observation Foundation Models · Geospatial Embeddings · Vector Search · MCP · Agentic GeoAI  
+
+LGND is a **geospatial AI platform** that turns satellite and Earth-observation imagery into searchable **embeddings**, delivered through three products: an **API** (embeddings and search), **Discover** (geospatial data exploration), and **Studio** (dataset creation and validation). It builds on open Earth foundation models — including **Clay**, **FarSLIP**, and **AlphaEarth Foundations (AEF)** — and has released **15.2 billion pre-computed Sentinel-2 embeddings** under CC BY 4.0 on Source Cooperative, reflecting an open-science orientation.
+
+**Research Tier — free for qualifying academics:** LGND offers complimentary **Pro-level access to the LGND Embeddings API** for academic researchers working with geospatial data.
+- **150,000 monthly credits** (enough to embed Sentinel-2 imagery across the Continental US and Europe multiple times)
+- Access to multiple foundation models (**Clay, FarSLIP, AEF**)
+- **Embedding Export** to **GeoParquet** via S3
+- **MCP Server** for querying collections and running inference in natural language
+- **Code Assistant** with current API documentation
+
+*Cost:* Free for qualifying academics (subject to LGND's Terms of Service; resulting publications must be made public with proper acknowledgement)  
+*Apply / Learn more:* https://lgnd.ai/resources/research-tier · Docs: https://lgnd.ai/lgnd-docs  
+
+> **Note:** Highly relevant for autonomous-GeoAI and AI4Science researchers who need large-scale satellite embeddings **without training their own encoders** — e.g., damage assessment, change detection, land-cover, and cross-view tasks. The MCP Server and GeoParquet export fit naturally into agentic, reproducible GeoAI pipelines.
+
 ### **Ready (Geospatial Data Engineering)**
 *Focus:* Geospatial Data Engineering · Airflow ELT · Spatial SQL · Applied AI Agents
 
